@@ -1,5 +1,6 @@
-strong {
+o {
     font-size: 90%; /* ტექსტის ზომა */
+    font-weight: 900; /*ქეტსტი გახდეს მუქი*/
 }
 
 p {
@@ -19,11 +20,11 @@ td {
 .pink.foto {
     background-color: rgb(248, 168, 136);
     text-align: center; /*ტექსტი იყოს ცენტრში*/
-    width: 170px;
+    width: 170px; /*სიგარე*/
 }
 
 .pink a img { /*pink კლასში, a ელემენტის სურათი*/
-    width: 40px; /* სიგანე */
+    width: 40px;
 }
 
 .pink.six{
@@ -67,6 +68,6 @@ td {
 }
 
 .erti {
-    line-height: 1.5mm; /*ერთცალიანი უფრის სიმაღლე*/
+    line-height: 1.5mm; /*ერთცალიანი უჯრის სიმაღლე*/
 }
 
